@@ -16,3 +16,5 @@ Linked List
 Tree
 Graph
 
+operations of stack: Push, Pop, Peek or top, isEmpty
+
