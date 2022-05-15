@@ -18,3 +18,7 @@ Graph
 
 operations of stack: Push, Pop, Peek or top, isEmpty
 
+Queue: First in First Out
+    Enqueue: process of adding elements to queue
+    Dequeue: process of removing the elements from the queue
+
