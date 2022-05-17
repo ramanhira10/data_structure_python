@@ -1,4 +1,5 @@
 from queue import Queue
+
 q = Queue(maxsize=4)
 print("Initial Size before insertion: ", q.qsize())
 q.put("A")
